@@ -2,7 +2,7 @@ function reset() {
     location.reload();
 }
 
-let count = 1;
+let count = 2;
 function myFun(data) {
     if (count <= 9) {
         if (count % 2 == 0) {
